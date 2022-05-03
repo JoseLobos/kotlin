@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">HolaMundoKotlin</string>
+    <string name="hola_mundo">HOLA MUNDO</string>
+</resources>
