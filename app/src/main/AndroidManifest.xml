@@ -10,7 +10,22 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.HolaMundoKotlin">
         <activity
+            android:name=".While"
+            android:exported="false" />
+        <activity
+            android:name=".When"
+            android:exported="false" />
+        <activity
+            android:name=".For"
+            android:exported="false" />
+        <activity
+            android:name=".If"
+            android:exported="false" />
+        <activity
             android:name=".MainActivity"
+            android:exported="false" />
+        <activity
+            android:name=".Foreachenkotlin"
             android:exported="true">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
