@@ -3,7 +3,10 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Users/Jose Lobos/AndroidStudioProjects/kotlin/app/src/main/res/layout/activity_for.xml" value="0.1" />
+        <entry key="..\:/Users/Jose Lobos/AndroidStudioProjects/kotlin/app/src/main/res/layout/activity_funciones.xml" value="0.1" />
         <entry key="..\:/Users/Jose Lobos/AndroidStudioProjects/kotlin/app/src/main/res/layout/activity_if.xml" value="0.1" />
+        <entry key="..\:/Users/Jose Lobos/AndroidStudioProjects/kotlin/app/src/main/res/layout/activity_rangos.xml" value="0.1" />
         <entry key="..\:/Users/usuario/AndroidStudioProjects/HolaMundoKotlin/app/src/main/res/layout/activity_main.xml" value="0.25" />
       </map>
     </option>

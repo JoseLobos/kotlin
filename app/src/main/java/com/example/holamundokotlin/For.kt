@@ -1,5 +1,6 @@
 package com.example.holamundokotlin
 
+import android.content.Intent
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
 import android.widget.Toast
@@ -8,6 +9,11 @@ class For : AppCompatActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_for)
+
+   
+
+
+        startActivity(Intent(this,While::class.java))
 
         val names = listOf("Anne", "Peter", "Jeff")
         for (name in names) {
@@ -25,4 +31,6 @@ class For : AppCompatActivity() {
 
 
     }
+
+
 }

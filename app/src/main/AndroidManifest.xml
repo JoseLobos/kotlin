@@ -10,13 +10,31 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.HolaMundoKotlin">
         <activity
+            android:name=".Todouble"
+            android:exported="false" />
+        <activity
+            android:name=".Tofloat"
+            android:exported="false" />
+        <activity
+            android:name=".Tolong"
+            android:exported="false" />
+        <activity
+            android:name=".Toint"
+            android:exported="false" />
+        <activity
+            android:name=".Foreachenkotlin"
+            android:exported="false" />
+        <activity
+            android:name=".Funciones"
+            android:exported="false" />
+        <activity
             android:name=".While"
             android:exported="false" />
         <activity
             android:name=".When"
             android:exported="false" />
         <activity
-            android:name=".For"
+            android:name=".Rangos"
             android:exported="false" />
         <activity
             android:name=".If"
@@ -25,7 +43,7 @@
             android:name=".MainActivity"
             android:exported="false" />
         <activity
-            android:name=".Foreachenkotlin"
+            android:name=".For"
             android:exported="true">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
